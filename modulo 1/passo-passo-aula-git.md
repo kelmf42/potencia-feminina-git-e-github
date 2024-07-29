@@ -14,4 +14,4 @@ Nesta aula estamos aprendendo comando muito úteis
 ## comitando arquivos 
 ## adicionando comandos git
 ## selecionando comandos
-## verificando 
+## verificando comandos 
