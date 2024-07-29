@@ -10,3 +10,4 @@ Nesta aula estamos aprendendo comando muito úteis
 ## instalações do git ##
 ## comoando
 ## git commit 
+## adicionando comandos 
