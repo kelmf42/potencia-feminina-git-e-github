@@ -12,3 +12,4 @@ Nesta aula estamos aprendendo comando muito úteis
 ## git commit 
 ## adicionando comandos 
 ## comitando arquivos 
+## adicionando comandos git
