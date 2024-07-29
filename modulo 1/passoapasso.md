@@ -11,3 +11,4 @@ Nesta aula estamos aprendendo comando muito úteis
 ## comoando
 ## git commit 
 ## adicionando comandos 
+## comitando arquivos 
